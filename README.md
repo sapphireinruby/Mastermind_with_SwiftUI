@@ -5,7 +5,7 @@ This application was built with the purpose of exploring SwiftUI and The Composa
 
 ## How to run code
 1. Download this repository
-2. Open `Mastermind_with_SwiftUIApp.xcodeproj > ._project` in `Xcode`
+2. Open `Mastermind_with_SwiftUIApp.xcodeproj in `Xcode`
 3. Choose the appropriate device and run  `[Command]+ [R]` in Xcode. 
 For the best result, the ios 13 or later is recommended. 
 
